@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task1hw\\task1hw.csproj": {}
+    "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task2hw\\task1hw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task1hw\\task1hw.csproj": {
+    "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task2hw\\task1hw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task1hw\\task1hw.csproj",
+        "projectUniqueName": "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task2hw\\task1hw.csproj",
         "projectName": "task1hw",
-        "projectPath": "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task1hw\\task1hw.csproj",
+        "projectPath": "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task2hw\\task1hw.csproj",
         "packagesPath": "C:\\Users\\Upeco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task1hw\\obj\\",
+        "outputPath": "C:\\Users\\Upeco\\Desktop\\hw(seminar5)\\task2hw\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Upeco\\AppData\\Roaming\\NuGet\\NuGet.Config"
