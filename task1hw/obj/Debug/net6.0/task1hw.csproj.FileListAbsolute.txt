@@ -1,0 +1,15 @@
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\bin\Debug\net6.0\task1hw.exe
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\bin\Debug\net6.0\task1hw.deps.json
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\bin\Debug\net6.0\task1hw.runtimeconfig.json
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\bin\Debug\net6.0\task1hw.dll
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\bin\Debug\net6.0\task1hw.pdb
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.csproj.AssemblyReference.cache
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.AssemblyInfoInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.AssemblyInfo.cs
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.dll
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\refint\task1hw.dll
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.pdb
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\task1hw.genruntimeconfig.cache
+C:\Users\Upeco\Desktop\hw(seminar5)\task1hw\obj\Debug\net6.0\ref\task1hw.dll
