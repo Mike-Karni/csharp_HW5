@@ -1,0 +1,15 @@
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.csproj.AssemblyReference.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.AssemblyInfoInputs.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.AssemblyInfo.cs
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\bin\Debug\net6.0\additionalTask2.exe
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\bin\Debug\net6.0\additionalTask2.deps.json
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\bin\Debug\net6.0\additionalTask2.runtimeconfig.json
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\bin\Debug\net6.0\additionalTask2.dll
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\bin\Debug\net6.0\additionalTask2.pdb
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.dll
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\refint\additionalTask2.dll
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.pdb
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\additionalTask2.genruntimeconfig.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\8 занятие(5 семинар 25.04.22)\hw(seminar5)\additionalTask2\obj\Debug\net6.0\ref\additionalTask2.dll
